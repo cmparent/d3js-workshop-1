@@ -38,7 +38,7 @@ For the class demo:
 We will be coding in parallel in `js/demo.js` to learn the concepts of D3. 
 
 For the class activity:
-After the demo you will be asked to complete TODO steps in `js/stocks.js` to apply the concepts. We will grade your code in stocks.js
+After the demo you will be asked to complete TODO steps in `js/stocks.js` to apply the concepts. We will grade your code from this file. 
 
 ---
 
